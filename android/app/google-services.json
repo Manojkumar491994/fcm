@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "813600961553",
+    "project_id": "manoj-28838",
+    "storage_bucket": "manoj-28838.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813600961553:android:134cdb8008fbd31729adb0",
+        "android_client_info": {
+          "package_name": "com.manoj.fcm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtMCWGc7kPo_OnAGkp_0DiE5yQeoeXte0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
